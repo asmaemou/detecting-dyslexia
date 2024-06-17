@@ -1,0 +1,5 @@
+myenv/
+# Ignore other unnecessary files
+.DS_Store
+*.pyc
+__pycache__/
